@@ -11,31 +11,33 @@ const roboto = Roboto({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://pandi-web.vercel.app"),
+  metadataBase: new URL("https://santuspharma.vercel.app/"),
   title: {
-    default: "High-Quality Pharmacy & Healthcare Products in UAE",
+    default: "High Quality Pharmaceutical in UAE-Your Trusted Destination",
   },
   description:
-    "Trusted brands, fast delivery, competitive prices, and expert support to keep you and your family healthy and well.",
+    "High Quality Pharmaceutical in UAE. Santus Pharma offers genuine medicines, health supplements, personal care, and wellness products with fast delivery.",
   keywords: [
-    "Santus pharma",
-    "Santus pharma",
-    "Santus pharma",
-    "Santus pharma",
-    "Santus pharma",
-    "Santus pharma",
-    "Santus pharma",
+    "Santus Pharma",
+    "Pharmacy UAE",
+    "Medicines UAE",
+    "Health Supplements UAE",
+    "Vitamins UAE",
+    "Personal Care UAE",
+    "Skincare UAE",
+    "Wellness Products UAE",
+    "Trusted Pharmacy UAE"
   ],
   authors: [{ name: "Santus pharma" }],
   openGraph: {
-    title: "High-Quality Pharmacy & Healthcare Products in UAE",
+    title: "High Quality Pharmaceutical and Health Products in UAE",
     description:
-      "Trusted brands, fast delivery, competitive prices, and expert support to keep you and your family healthy and well.",
-    url: "https://pandi-web.vercel.app",
+      "High Quality Pharmaceutical in UAE. Santus Pharma offers genuine medicines, vitamins, health supplements, personal care, skincare, and wellness products.",
+    url: "https://santuspharma.vercel.app/",
     siteName: "Santus pharma Web",
     images: [
       {
-        url: "https://pandi-web.vercel.app/images/product_car.webp",
+        url: "https://santuspharma.vercel.app/images/product_car.webp",
         width: 1200,
         height: 630,
         alt: "Santus pharma Logo",
@@ -46,10 +48,10 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "High-Quality Pharmacy & Healthcare Products in UAE",
+    title: "High-Quality Pharmacy and Healthcare Products in UAE",
     description:
-      "Trusted pharmacy in UAE offering genuine medicines, health supplements, and personal care products with fast delivery and expert support for your well-being",
-    images: ["https://pandi-web.vercel.app/images/product_car.webp"],
+      "Santus Pharma UAE provides trusted medicines, vitamins, health supplements, personal care, skincare, wellness products, and natural remedies with fast delivery.",
+    images: ["https://santuspharma.vercel.app/images/product_car.webp"],
     site: "@Santuspharma",
   },
   robots: {
@@ -64,10 +66,10 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: "https://pandi-web.vercel.app",
+    canonical: "https://santuspharma.vercel.app/",
     languages: {
-      "x-default": "https://pandi-web.vercel.app/",
-      en: "https://pandi-web.vercel.app/",
+      "x-default": "https://santuspharma.vercel.app//",
+      en: "https://santuspharma.vercel.app//",
     },
   },
 };
@@ -143,15 +145,15 @@ export default async function RootLayout({ children }) {
               "@type": "AutoPartsStore",
               "name": "Santus pharma",
               "image": "/images/product_car.webp",
-              "url": "https://pandi-web.vercel.app",
-              "telephone": "+91 8606449640",
+              "url": "https://santuspharma.vercel.app/",
+              "telephone": "+971 566212170",
               "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "Your Street, Perinthalmanna",
-                "addressLocality": "Malappuram",
-                "addressRegion": "Kerala",
-                "postalCode": "676509",
-                "addressCountry": "IN"
+                "streetAddress": "Your Street, rolla",
+                "addressLocality": "Sharjha",
+                "addressRegion": "UAE",
+                "postalCode": "000000",
+                "addressCountry": "UAE"
               },
               "openingHours": "Mo-Sa 09:00-18:00",
               "sameAs": [
