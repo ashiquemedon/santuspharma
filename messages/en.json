@@ -1,0 +1,177 @@
+{
+  "HomePage": {
+    "HeroSection": {
+      "title": "Your Trusted Destination for Quality Spare Parts",
+      "title1": "Your",
+      "title2": "Trusted",
+      "title3": "Destination For",
+      "title4": "Quality",
+      "title5": "Spare Parts",
+      "description": "Discover a wide selection of OEM and aftermarket parts for all vehicle types. Genuine quality, competitive prices, and reliable performance guaranteed. Shop with confidence and keep your ride running smoothly.",
+      "callAction1": "Book Now",
+      "callAction2": "Explore Parts"
+    },
+
+    "HomeAbout": {
+      "counts": {
+        "yearsOfExperience": "Years Of Experience",
+        "orderServedSuccess": "Order Served Success",
+        "satisfiedCustomers": "Satisfied Customers"
+      },
+      "about": "About",
+      "us": "Us",
+      "p1": "At Pandi Auto Spare, we specialize in providing high-quality spare parts for cars. Whether you're a vehicle owner, mechanic, or retailer, we ensure access to a wide range of OEM and premium aftermarket parts that meet industry standards.",
+      "p2": "With a focus on genuine quality, competitive pricing, and fast delivery, our goal is to keep your vehicles running safely and smoothly. From engines to accessories, our inventory is backed by expert support and a commitment to customer satisfaction.",
+      "callAction": "Read More",
+      "icons": {
+        "parts": "Affordable Auto Parts",
+        "brand": "Top Brands",
+        "quality": "Trusted Quality",
+        "delivery": "Secure Delivery"
+      }
+    },
+    "HomeProduct": {
+      "explore": "Explore Our",
+      "products": "Products",
+      "p1": "Browse our wide range of high-quality spare parts designed to fit perfectly and perform reliably. Whether you’re upgrading, replacing, or repairing — we’ve got the right part for you.",
+      "parts": {
+        "parts": "Engine Parts",
+        "parts_first": "Engine",
+        "parts_second": "Parts",
+        "parts_desc": "Engine parts are the heart of your vehicle's performance. This category includes vital components like pistons, crankshafts, camshafts, cylinder heads, gaskets, timing chains, and engine mounts — all designed to ensure efficient power delivery, fuel combustion, and smooth operation.",
+
+        "disks": "Brake & Disks",
+        "disks_first": "Brake",
+        "disks_second": " & ",
+        "disks_third": "Disks",
+        "disks_desc": "Ensure safe and responsive stopping power with our high-quality brake components. Our range includes brake pads, brake discs (rotors), calipers, and related hardware designed for precise fitment and optimal performance.",
+
+        "electronic": "Electronic Parts",
+        "electronic_first": "Electronic",
+        "electronic_second": "Parts",
+        "electronic_desc": "Stay powered and connected with high-quality electronic components for your vehicle. This category includes essential parts like alternators, sensors, relays, ECUs (Engine Control Units), wiring harnesses, and digital meters. Whether it’s for power management, signal control, or onboard diagnostics, our electronic parts ensure reliable performance, safety, and compatibility with modern vehicles.",
+
+        "light": "Light Parts",
+        "light_first": "Light",
+        "light_second": "Parts",
+        "light_desc": "Illuminate your drive with our wide range of high-quality light parts. From headlights and tail lamps to fog lights, indicators, and interior bulbs — we offer lighting solutions that ensure safety, visibility, and style. All parts are compatible with major vehicle brands and built for durability in all weather conditions.",
+
+        "oil": "Oil & Lubrication",
+        "oil_first": "Oil",
+        "oil_second": " & ",
+        "oil_third": "Lubrication",
+        "oil_desc": "Keep your engine running smoothly and efficiently with high-quality oils and lubricants. This category includes engine oil, gear oil, brake fluid, grease, and other essential fluids that reduce friction, prevent wear, and extend the life of your vehicle’s components. Suitable for all types of vehicles and driving conditions.",
+
+        "bodyParts": "Body Parts",
+        "bodyParts_first": "Body",
+        "bodyParts_second": "Parts",
+        "bodyParts_desc": "Restore your vehicle’s appearance and structure with high-quality body components. From bumpers and fenders to mirrors, grills, door handles, and panels — our body parts are built for perfect fit, durability, and a factory-finish look. Whether you're repairing damage or upgrading style, find everything you need to bring your vehicle back to life."
+      },
+      "everything": "Everything Your Vehicle Needs",
+      "all": "All In One",
+      "place": "Place"
+    },
+
+    "HomeBrand": {
+      "brand": "Brands We",
+      "trus": "Trust",
+      "p1": "Browse our wide range of high-quality spare parts designed to fit perfectly and perform reliably. Whether you’re upgrading, replacing, or repairing — we’ve got the right part for you"
+    }
+  },
+  "Header": {
+    "MenuNames": {
+      "home": "Home",
+      "aboutUs": "About Us",
+      "products": "Products",
+      "contact": "Contact"
+    }
+  },
+  "AboutPage": {
+    "HeroSection": {
+      "titleLabel1": "About",
+      "titleLabel2": "Us",
+      "subtitleLabel1": "Trusted by Customers Since",
+      "subtitleLabel2": "1972",
+      "description": "Welcome to pandi Auto spare, your one-stop destination for high-quality spare parts for all types of vehicles. From everyday commuters to heavy-duty machines, we provide reliable solutions to keep you moving with confidence."
+    },
+    "MissionSection": {
+      "titleLabel1": "Who",
+      "titleLabel2": "We Are",
+      "titleLabel3": "Our",
+      "titleLabel4": "Mission",
+      "subtitle1": "We re a team of auto enthusiasts and professionals with a passion for performance and precision. With years of industry experience, we understand the importance of using the right part — which is why we only offer products that meet strict standards of quality, durability, and fit.",
+      "subtitle2": "To make spare part buying easy, reliable, and accessible for every customer — whether you’re a car owner, a mechanic, or a shop owner. We aim to build long-term relationships based on honesty, quality, and service excellence."
+    },
+    "OfferSection": {
+      "titleLabel1": "What",
+      "titleLabel2": "We Offer",
+      "offerList": [
+        {
+          "title": "OEM & Aftermarket Parts",
+          "description": "We supply genuine Original Equipment Manufacturer (OEM) parts along with trusted aftermarket alternatives for all major brands and vehicle types."
+        },
+        {
+          "title": "Wide Product Range",
+          "description": "From engine components to electrical systems, filters, brakes, body parts, accessories, and more — we’ve got everything under one roof."
+        },
+        {
+          "title": "Trusted Brands",
+          "description": "We work with renowned brands like Bosch, NGK, TVS, Castrol, Exide, Minda, and many more."
+        },
+        {
+          "title": "Affordable Prices",
+          "description": "Competitive pricing without compromising on quality. We believe great parts shouldn’t break the bank."
+        },
+        {
+          "title": "Fast Delivery & Support",
+          "description": "Timely shipping, easy returns, and dedicated customer service to assist you every step of the way."
+        },
+        {
+          "title": "Easy Part Search & Filtering",
+          "description": "Our user-friendly website makes it simple to search, filter, and find the exact part you need — by vehicle model, brand, category, or part number."
+        }
+      ]
+    },
+    "WhyChooseUs": {
+      "titleLabel1": "Why",
+      "titleLabel2": "Choose Us?",
+      "reasons": [
+        "100% Genuine Products",
+        "Wide Compatibility Across Vehicles",
+        "Secure Payments & Hassle-Free Returns",
+        "Trusted By Customers Nationwide"
+      ]
+    },
+    "ContactUs": {
+      "titleLabel1": "Contact",
+      "titleLabel2": "Us",
+      "titleLabel3": "Get In",
+      "titleLabel4": "Touch",
+      "phone": "+91 8606449640",
+      "mail": "Pandispare@gmail.com",
+      "titleLabel5": "Customer Support",
+      "titleLabel6": "Hours",
+      "time": "Monday – Saturday: 9:00 AM To 7:00 PM",
+      "closeTime": "Sundays & Public Holidays Closed"
+    }
+  },
+  "ProductPage": {
+    "HeroSection": {
+      "our": "Our ",
+      "products": "Products",
+      "subtitle": "High-Quality Spare Parts for Every Vehicle",
+      "description": "Explore a wide range of spare parts that guarantee performance, durability, and compatibility. Whether you need OEM components or trusted aftermarket alternatives, we’ve got exactly what your vehicle needs — all in one place."
+    },
+    "WhyByFromUs": {
+      "titleLabel1": "Why",
+      "titleLabel2": "Buy From Us",
+      "?": "?",
+      "reasons": [
+        "100% genuine & verified parts",
+        "Fast delivery across locations",
+        "Trusted brands, affordable prices",
+        "Dedicated customer support"
+      ]
+    }
+  }
+}
