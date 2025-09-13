@@ -45,7 +45,7 @@ export function AboutSection() {
       </aside>
 
       {/* About Text */}
-      <div className="max-w-3xl mx-auto px-4 py-12 md:py-20">
+      <div className="max-w-4xl md:max-w-3xl lg:max-w-4xl mx-auto px-5 py-12 md:py-20">
         <h2
           id="about-heading"
           className="font-bold text-3xl sm:text-5xl md:text-6xl mb-4 fadeIn"
@@ -74,7 +74,7 @@ export function AboutSection() {
         <Link
           href="/about"
           hrefLang="en"
-          aria-label="Learn more about Pandi Auto Spare – Trusted car spare parts provider in Perinthalmanna, Malappuram"
+          aria-label="Santus Pharma – High-quality pharmacy products in UAE for medicines, supplements, skincare, and wellness essentials."
         >
           <button
             className="bg-primary text-white px-6 py-3 rounded-full 
