@@ -103,9 +103,9 @@ export default function Header() {
                   showNumber ? "max-w-[200px] opacity-100" : "max-w-0 opacity-0"
                 }`}
               >
-                +91 8606449640
+                +971 566212170
               </span>
-              <span className="hidden sm:block">+91 8606449640</span>
+              <span className="hidden sm:block">+971 566212170</span>
             </button>
 
             {/* Mobile Menu Button */}

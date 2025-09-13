@@ -1,19 +1,19 @@
 
 const SOCIAL_LINKS = {
-  whatsapp: "https://wa.me/918606449640",
-  facebook: "https://facebook.com/yourusername",
-  instagram: "https://instagram.com/yourusername",
-  youtube: "https://youtube.com/yourusername",
+  whatsapp: "https://wa.me/971566212170",
+  facebook: "https://facebook.com/santuspharma",
+  instagram: "https://instagram.com/santuspharma",
+  youtube: "https://youtube.com/santuspharma",
 };
 
 const PERSONAL_INFO = {
-  phone: "+91 8606449640",
-  location: "your location",
-  email: "pandispare@gmail.com"
+  phone: "+971 566212170",
+  location: "UAE",
+  email: "santuspharmallc@gmail.com"
 }
 
 const COMPANY_INFO = {
-  name: "Pandi Spare Parts",
-  since: "1972",
-  address: "your address",
+  name: "Pantus Pharma",
+  since: "2025",
+  address: "UAE",
 }
