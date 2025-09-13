@@ -13,7 +13,7 @@ export default function HeroSection() {
           {/* <span className="text-primary">in Malappuram</span> */}
         </h1>
 
-        <p className="mt-6 max-w-3xl text-base sm:text-xl font-light leading-relaxed tracking-wide fadeIn">
+        <p className="mt-6 max-w-3xl text-base sm:text-xl font-light leading-relaxed tracking-wide fadeIn text-justify pr-[0%] sm:pr-[5%] md:pr-[5%] lg:pr-[10%]">
           {/* Discover a wide selection of OEM and aftermarket parts for all vehicle
           types. Genuine quality, competitive prices, and reliable performance
           guaranteed. Shop with confidence and keep your ride running smoothly. */}

@@ -10,7 +10,7 @@ export function AboutSection() {
   useEffect(() => {
     const observer = new IntersectionObserver(
       ([entry]) => entry.isIntersecting && setIsVisible(true),
-      { threshold: 0.3 }
+      { threshold: 0.1 }
     );
     if (sectionRef.current) observer.observe(sectionRef.current);
     return () => observer.disconnect();
@@ -52,7 +52,7 @@ export function AboutSection() {
         >
           About <span className="text-primary">Us</span>
         </h2>
-        <p className="text-gray-700 text-base md:text-xl leading-relaxed mb-6 fadeIn">
+        <p className="text-gray-700 text-base md:text-xl leading-relaxed mb-6 fadeIn text-justify ">
           Sanatus pharma is a newly established entity under the NANOSYS Holding
           consortium. Which ecompasses a robust network of six parmacy group
           totaling over 150 pharmacies. With a strategic focus in the UAE,
@@ -61,7 +61,7 @@ export function AboutSection() {
           pharma is a newly established entity under the NANOSYS Holding
           consortium.
         </p>
-        <p className="text-gray-700 text-base md:text-xl leading-relaxed mb-8 fadeIn">
+        <p className="text-gray-700 text-base md:text-xl leading-relaxed mb-8 fadeIn  text-justify">
           Sanatus pharma is a newly established entity under the NANOSYS Holding
           consortium. Which ecompasses a robust network of six parmacy group
           totaling over 150 pharmacies. With a strategic focus in the UAE,

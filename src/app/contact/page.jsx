@@ -89,7 +89,7 @@ function SocialLinks() {
           alt="whatsapp_logo"
         />
       ),
-      text: "+91 8606449640",
+      text: "+971 566212170",
       url: "https://wa.me/971566212170",
     },
     {
@@ -140,7 +140,7 @@ function SocialLinks() {
           target="_blank"
           aria-label={`Visit our ${link.text} page`}
           rel="noopener noreferrer"
-          className="flex flex-col justify-center bg-[#F4F4F4] rounded-2xl shadow-sm px-6 py-12 items-start hover:shadow-lg transition-all"
+          className="flex flex-col justify-center bg-[#ffffff] border rounded-2xl shadow-md px-6 py-12 items-start hover:shadow-lg transition-all"
         >
           <div className="flex items-center justify-center w-14 h-14 rounded-full bg-[#202025] mb-4">
             {link.icon}

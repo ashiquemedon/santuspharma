@@ -19,7 +19,7 @@ export function AboutBanner() {
           Trusted by Customers Since <span className="text-primary">2020</span>
         </p>
 
-        <p className="mt-6 max-w-3xl text-md sm:text-xl font-light leading-relaxed fadeIn delay-100">
+        <p className="mt-6 max-w-3xl text-md sm:text-xl font-light leading-relaxed fadeIn delay-100 text-justify">
           <p>
             Sanatus pharma is a newly established entity under the NANOSYS
             Holding consortium. Which ecompasses a robust network of six parmacy

@@ -27,7 +27,7 @@ export function MissionSection() {
             <h3 className="text-2xl font-semibold mb-2 fadeIn">
               Our <span className="text-primary">Mission</span>
             </h3>
-            <p className="text-gray-700 text-lg font-light mb-4 leading-relaxed fadeIn">
+            <p className="text-gray-700 text-lg font-light mb-4 leading-relaxed fadeIn text-justify">
               At Sanatus Pharma, our mission is to deliver superior
               pharmaceutical care and innovative wellness solutions while
               developing trusted in-house brands and a comprehensive range of
@@ -39,7 +39,7 @@ export function MissionSection() {
             <h3 className="text-2xl font-semibold mb-2 fadeIn">
               Our <span className="text-primary">Vision</span>
             </h3>
-            <p className="text-gray-700 text-lg font-light leading-relaxed fadeIn">
+            <p className="text-gray-700 text-lg font-light leading-relaxed fadeIn text-justify">
               To be the leading provider of high-quality pharmaceutical and
               wellness products in the GCC region, advocating for enhanced
               health and well-being in the communities we serve

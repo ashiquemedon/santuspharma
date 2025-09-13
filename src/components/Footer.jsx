@@ -108,7 +108,7 @@ export default function Footer() {
       {/* Footer Bottom Section */}
       <footer className="bg-white border-t p-2 md:p-4 text-center">
         <p className="text-[#4C4C4C] !font-extralight text-xs sm:text-sm">
-          &copy; {new Date().getFullYear()} All Rights Reserved | Designed And Developed By MKM Solutions
+          &copy; {new Date().getFullYear()} All Rights Reserved | Designed And Developed By Medon
         </p>
       </footer>
     </>
