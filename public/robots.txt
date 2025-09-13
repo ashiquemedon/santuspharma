@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pandi-web.vercel.app
+
+# Sitemaps
+Sitemap: https://pandi-web.vercel.app/sitemap.xml
