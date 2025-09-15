@@ -7,8 +7,8 @@ import { CHOOSE_AS_QUESTIONS } from "@/lib/data/common";
 
 
 export const metadata = {
-  title: "Sanatus Pharmas — Trusted Since 1972",
-  description: "Sanatus Pharmas: decades of experience supplying OEM and aftermarket parts. Trusted brands, quality assurance, and customer-first service."
+  title: "update Sanatus pharma  — Trusted Since 025",
+  description: "update Sanatus pharma: decades of experience supplying OEM and aftermarket parts. Trusted brands, quality assurance, and customer-first service."
 };
 
 export default function AboutPage() {

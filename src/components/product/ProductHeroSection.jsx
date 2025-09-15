@@ -20,7 +20,7 @@ export default function ProductHeroSection() {
           High-Quality Medicines for Every Health Need
         </h2>
 
-        <p className="mt-8 max-w-xl text-sm sm:text-xl font-light leading-relaxed fadeIn">
+        <p className="mt-8 max-w-2xl text-sm sm:text-xl font-light leading-relaxed fadeIn text-justify">
           Sanatus pharma is a newly established entity under the NANOSYS Holding
           consortium. Which ecompasses a robust network of six parmacy group
           totaling over 150 pharmacies.Sanatus pharma is a newly established
@@ -35,7 +35,7 @@ export default function ProductHeroSection() {
       {/* Background Image */}
       <Image
         src="/images/img/SanatusHigh-QualityMedicines_for_EveryHealthNeed.webp"
-        alt="Close-up of a car tyre representing Pharma products"
+        alt="Close-up of a car tyre representing spare parts"
         fill
         priority
         className="object-cover object-center"

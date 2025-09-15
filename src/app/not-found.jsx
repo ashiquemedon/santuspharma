@@ -9,7 +9,7 @@ export default function NotFound() {
         href="/"
         className="mt-5 px-6 py-2 bg-black text-white rounded-lg transition duration-300"
         hrefLang="en"
-        aria-label="Return to Sanatus Pharma Home – High-quality  Pharma products in Perinthalmanna, Malappuram"
+        aria-label="update Sanatus pharma "
       >
         Return Home
       </Link>

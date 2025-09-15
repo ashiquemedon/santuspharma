@@ -19,17 +19,17 @@ export default function Header() {
         <Link
           href="/"
           hrefLang="en"
-          aria-label="Sanatus Pharma – Home page for high-quality  Pharma products in Perinthalmanna, Malappuram"
+          aria-label="update Sanatus pharma  – Home page for high-quality car spare parts in Perinthalmanna, Malappuram"
         >
           <Image
             src="/images/PandiAutoPartsStoreLogo.webp"
-            alt="Sanatus Pharma Logo –  Pharma products Home"
+            alt="update Sanatus pharma  Logo – Car Spare Parts Home"
             width={120}
             height={50}
             className="object-contain"
             priority
           />
-          <span className="sr-only">Sanatus Pharma Homepage</span>
+          <span className="sr-only">update Sanatus pharma  Homepage</span>
         </Link>
 
         <div className="flex items-center gap-14">
@@ -40,7 +40,7 @@ export default function Header() {
                 <Link
                   href="/"
                   hrefLang="en"
-                  aria-label="Sanatus Pharma Home – High-quality  Pharma products in Perinthalmanna"
+                  aria-label="update Sanatus pharma  Home – High-quality car spare parts in Perinthalmanna"
                   className={`${
                     path === "/" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"
                   }`}
@@ -52,7 +52,7 @@ export default function Header() {
                 <Link
                   href="/about"
                   hrefLang="en"
-                  aria-label="About Sanatus Pharma – Trusted  Pharma products provider in Malappuram"
+                  aria-label="About update Sanatus pharma  – Trusted car spare parts provider in Malappuram"
                   className={`${
                     path === "/about" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"
                   }`}
@@ -64,7 +64,7 @@ export default function Header() {
                 <Link
                   href="/products"
                   hrefLang="en"
-                  aria-label="View Sanatus Pharma Products – OEM and aftermarket   parts"
+                  aria-label="View update Sanatus pharma  Products – OEM and aftermarket car parts"
                   className={`${
                     path === "/products" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"
                   }`}
@@ -76,7 +76,7 @@ export default function Header() {
                 <Link
                   href="/contact"
                   hrefLang="en"
-                  aria-label="Contact Sanatus Pharma – Get in touch for  Pharma products in Kerala"
+                  aria-label="Contact update Sanatus pharma  – Get in touch for car spare parts in Kerala"
                   className={`${
                     path === "/contact" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"
                   }`}
@@ -91,7 +91,7 @@ export default function Header() {
           <div className="flex items-center gap-2 md:gap-4">
             <button
               type="button"
-              aria-label="Call Sanatus Pharma – High-quality  Pharma products support"
+              aria-label="Call update Sanatus pharma  – High-quality car spare parts support"
               className={`bg-primary text-white px-2 sm:px-4 py-2 rounded-full flex items-center text-sm font-medium whitespace-nowrap cursor-pointer ${
                 showNumber ? "gap-2" : "gap-0.5"
               }`}
@@ -103,16 +103,16 @@ export default function Header() {
                   showNumber ? "max-w-[200px] opacity-100" : "max-w-0 opacity-0"
                 }`}
               >
-                 +971 566212170
+                +971 566212170
               </span>
-              <span className="hidden sm:block"> +971 566212170</span>
+              <span className="hidden sm:block">+971 566212170</span>
             </button>
 
             {/* Mobile Menu Button */}
             <button
               type="button"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              aria-label={isMobileMenuOpen ? "Close mobile menu – Sanatus Pharma navigation" : "Open mobile menu – Sanatus Pharma navigation"}
+              aria-label={isMobileMenuOpen ? "Close mobile menu – update Sanatus pharma  navigation" : "Open mobile menu – update Sanatus pharma  navigation"}
               className="lg:hidden p-2 rounded focus:outline-none cursor-pointer"
             >
               {isMobileMenuOpen ? (
@@ -133,7 +133,7 @@ export default function Header() {
             <Link
               href="/"
               hrefLang="en"
-              aria-label="Sanatus Pharma Home – High-quality  Pharma products in Perinthalmanna"
+              aria-label="update Sanatus pharma  Home – High-quality car spare parts in Perinthalmanna"
               onClick={() => setIsMobileMenuOpen(false)}
               className={`block ${path === "/" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"} mt-3`}
             >
@@ -142,7 +142,7 @@ export default function Header() {
             <Link
               href="/about"
               hrefLang="en"
-              aria-label="About Sanatus Pharma – Trusted  Pharma products provider in Malappuram"
+              aria-label="About update Sanatus pharma  – Trusted car spare parts provider in Malappuram"
               onClick={() => setIsMobileMenuOpen(false)}
               className={`block ${path === "/about" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"}`}
             >
@@ -151,7 +151,7 @@ export default function Header() {
             <Link
               href="/products"
               hrefLang="en"
-              aria-label="View Sanatus Pharma Products – OEM and aftermarket   parts"
+              aria-label="View update Sanatus pharma  Products – OEM and aftermarket car parts"
               onClick={() => setIsMobileMenuOpen(false)}
               className={`block ${path === "/products" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"}`}
             >
@@ -160,7 +160,7 @@ export default function Header() {
             <Link
               href="/contact"
               hrefLang="en"
-              aria-label="Contact Sanatus Pharma – Get in touch for  Pharma products in Kerala"
+              aria-label="Contact update Sanatus pharma  – Get in touch for car spare parts in Kerala"
               onClick={() => setIsMobileMenuOpen(false)}
               className={`block ${path === "/contact" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"}`}
             >

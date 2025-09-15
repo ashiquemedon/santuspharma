@@ -13,7 +13,7 @@ export default function HeroSection() {
           {/* <span className="text-primary">in Malappuram</span> */}
         </h1>
 
-        <p className="mt-6 max-w-3xl text-base sm:text-xl font-light leading-relaxed tracking-wide fadeIn">
+        <p className="mt-6 max-w-3xl text-base sm:text-xl font-light leading-relaxed tracking-wide fadeIn text-justify pr-[0%] sm:pr-[5%] md:pr-[5%] lg:pr-[10%]">
           {/* Discover a wide selection of OEM and aftermarket parts for all vehicle
           types. Genuine quality, competitive prices, and reliable performance
           guaranteed. Shop with confidence and keep your ride running smoothly. */}
@@ -29,7 +29,7 @@ export default function HeroSection() {
           <Link
             href="/contact"
             hrefLang="en"
-            aria-label="Book a service or contact Sanatus Pharma – High-quality  Pharma products in Perinthalmanna, Malappuram"
+            aria-label="Book a service or contact update Sanatus pharma  – High-quality car spare parts in Perinthalmanna, Malappuram"
           >
             <button className="bg-primary text-white px-6 py-3 rounded-full hover:opacity-90 transition">
               Book Now
@@ -38,7 +38,7 @@ export default function HeroSection() {
           <Link
             href="/products"
             hrefLang="en"
-            aria-label="Explore  Pharma products at Sanatus Pharma – OEM and aftermarket parts in Perinthalmanna, Malappuram"
+            aria-label="Explore car spare parts at update Sanatus pharma  – OEM and aftermarket parts in Perinthalmanna, Malappuram"
           >
             <button className="bg-white text-black px-6 py-3 rounded-full hover:opacity-90 transition">
               Explore Products
@@ -50,7 +50,7 @@ export default function HeroSection() {
       {/* Background Image */}
       <Image
         src="/images/PandiSparesMalappuramHeroBackground.webp"
-        alt="Automotive Pharma products background"
+        alt="Automotive spare parts background"
         fill
         priority
         className="object-cover object-center"

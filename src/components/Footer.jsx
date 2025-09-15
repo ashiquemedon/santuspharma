@@ -21,7 +21,7 @@ export default function Footer() {
             <div className="flex-1 mt-5 px-10 py-10 sm:px-28 sm:py-20 z-10">
               <img
                 src="/images/PandiAutoPartsStoreLogo.webp"
-                alt="Sanatus Pharma Logo – High Quality  Pharma products in Perinthalmanna Malappuram"
+                alt="update Sanatus pharma  Logo – High Quality Car Spare Parts in Perinthalmanna Malappuram"
                 className="w-44 mb-4"
               />
 
@@ -37,15 +37,15 @@ export default function Footer() {
                 </p>
                 <p className="flex items-center gap-6">
                   <Call size="20" variant="Outline" />
-                  <a href="tel:+971566212170" aria-label="Call Sanatus Pharma">
+                  <a href="tel:+971566212170" aria-label="Call update Sanatus pharma ">
                     +971 566212170
                   </a>
                 </p>
                 <p className="flex items-center gap-6">
                   <Sms size="20" variant="Outline" />
                   <a
-                    href="mailto:info@sanatuspharmallc.com"
-                    aria-label="Email Sanatus Pharma"
+                    href="info@sanatuspharmallc.com"
+                    aria-label="Email update Sanatus pharma "
                   >
                     info@sanatuspharmallc.com
                   </a>
@@ -100,7 +100,7 @@ export default function Footer() {
               <div className="relative overflow-hidden h-full w-full opacity-0 lg:opacity-00">
                 <img
                   src="/images/footer_img.webp"
-                  alt="background representing pharma products"
+                  alt="Car background representing pharma  parts"
                   className="w-full h-full object-cover scale-150 -translate-x-44 translate-y-24 filter brightness-50"
                 />
               </div>

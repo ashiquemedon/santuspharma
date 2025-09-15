@@ -10,7 +10,7 @@ export function AboutSection() {
   useEffect(() => {
     const observer = new IntersectionObserver(
       ([entry]) => entry.isIntersecting && setIsVisible(true),
-      { threshold: 0.3 }
+      { threshold: 0.1 }
     );
     if (sectionRef.current) observer.observe(sectionRef.current);
     return () => observer.disconnect();
@@ -45,14 +45,14 @@ export function AboutSection() {
       </aside>
 
       {/* About Text */}
-      <div className="max-w-3xl mx-auto px-4 py-12 md:py-20">
+      <div className="max-w-4xl md:max-w-3xl lg:max-w-4xl mx-auto px-5 py-12 md:py-20">
         <h2
           id="about-heading"
           className="font-bold text-3xl sm:text-5xl md:text-6xl mb-4 fadeIn"
         >
           About <span className="text-primary">Us</span>
         </h2>
-        <p className="text-gray-700 text-base md:text-xl leading-relaxed mb-6 fadeIn">
+        <p className="text-gray-700 text-base md:text-xl leading-relaxed mb-6 fadeIn text-justify ">
           Sanatus pharma is a newly established entity under the NANOSYS Holding
           consortium. Which ecompasses a robust network of six parmacy group
           totaling over 150 pharmacies. With a strategic focus in the UAE,
@@ -61,7 +61,7 @@ export function AboutSection() {
           pharma is a newly established entity under the NANOSYS Holding
           consortium.
         </p>
-        <p className="text-gray-700 text-base md:text-xl leading-relaxed mb-8 fadeIn">
+        <p className="text-gray-700 text-base md:text-xl leading-relaxed mb-8 fadeIn  text-justify">
           Sanatus pharma is a newly established entity under the NANOSYS Holding
           consortium. Which ecompasses a robust network of six parmacy group
           totaling over 150 pharmacies. With a strategic focus in the UAE,
@@ -74,7 +74,7 @@ export function AboutSection() {
         <Link
           href="/about"
           hrefLang="en"
-          aria-label="Learn more about Sanatus Pharma – Trusted   Pharma products provider in Perinthalmanna, Malappuram"
+          aria-label="Santus Pharma – High-quality pharmacy products in UAE for medicines, supplements, skincare, and wellness essentials."
         >
           <button
             className="bg-primary text-white px-6 py-3 rounded-full 

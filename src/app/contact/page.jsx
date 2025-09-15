@@ -2,8 +2,8 @@ import { MailIcon, PhoneIcon } from "lucide-react";
 import Image from "next/image";
 
 export const metadata = {
-  title: "Contact   Web — Orders & Support",
-  description: "Contact   Web for orders and customer support. Call  +971 566212170 or email info@sanatuspharmallc.com. Support hours Mon–Sat 9:00 AM–7:00 PM."
+  title: "Contact Pandi Web — Orders & Support",
+  description: "Contact Pandi Web for orders and customer support. Call +971 566212170 or email info@sanatuspharmallc.com. Support hours Mon–Sat 9:00 AM–7:00 PM."
 };
 
 export default function ContactPage() {
@@ -43,7 +43,7 @@ export default function ContactPage() {
           <div className="flex items-center gap-3 text-lg text-gray-800">
             <MailIcon size="28" className="text-secondary" />
             <span className="font-normal text-base md:text-xl text-text-color">
-              info@sanatuspharmallc.com
+              sanatusphramallc@gmail.com
             </span>
           </div>
 
@@ -89,7 +89,7 @@ function SocialLinks() {
           alt="whatsapp_logo"
         />
       ),
-      text: " +971 566212170",
+      text: "+971 566212170",
       url: "https://wa.me/971566212170",
     },
     {
@@ -140,7 +140,7 @@ function SocialLinks() {
           target="_blank"
           aria-label={`Visit our ${link.text} page`}
           rel="noopener noreferrer"
-          className="flex flex-col justify-center bg-[#F4F4F4] rounded-2xl shadow-sm px-6 py-12 items-start hover:shadow-lg transition-all"
+          className="flex flex-col justify-center bg-[#ffffff] border rounded-2xl shadow-md px-6 py-12 items-start hover:shadow-lg transition-all"
         >
           <div className="flex items-center justify-center w-14 h-14 rounded-full bg-[#202025] mb-4">
             {link.icon}
