@@ -40,7 +40,7 @@ export function WhatWeOffer() {
             <h3 className="text-xl font-bold mb-2 text-secondary fadeIn">
               {item.title}
             </h3>
-            <p className="text-gray-700 text-base font-light leading-relaxed fadeIn text-justify">
+            <p className="text-gray-700 text-base font-light leading-relaxed fadeIn">
               {item.description}
             </p>
           </li>

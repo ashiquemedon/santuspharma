@@ -21,7 +21,7 @@ export default function Footer() {
             <div className="flex-1 mt-5 px-10 py-10 sm:px-28 sm:py-20 z-10">
               <img
                 src="/images/PandiAutoPartsStoreLogo.webp"
-                alt="Pandi Auto Spare Logo – High Quality Car Spare Parts in Perinthalmanna Malappuram"
+                alt="Sanatus Pharma Logo – High Quality  Pharma products in Perinthalmanna Malappuram"
                 className="w-44 mb-4"
               />
 
@@ -29,21 +29,25 @@ export default function Footer() {
               <div className="text-black space-y-3 font-roboto font-light text-[14px] sm:text-[16px] md:text-[20px] leading-9 tracking-normal mt-8">
                 <p className="flex items-center gap-6">
                   <Location size="20" variant="Outline" />
-                  UAE
+                  V-033,
+                  Russia Cluster, 
+                  Warsan 1, 
+                  Mushraif, 
+                  Dubai
                 </p>
                 <p className="flex items-center gap-6">
                   <Call size="20" variant="Outline" />
-                  <a href="tel:+918606449640" aria-label="Call Pandi Auto Spare">
+                  <a href="tel:+971566212170" aria-label="Call Sanatus Pharma">
                     +971 566212170
                   </a>
                 </p>
                 <p className="flex items-center gap-6">
                   <Sms size="20" variant="Outline" />
                   <a
-                    href="mailto:pandispare@gmail.com"
-                    aria-label="Email Pandi Auto Spare"
+                    href="mailto:info@sanatuspharmallc.com"
+                    aria-label="Email Sanatus Pharma"
                   >
-                    sanatusphramallc@gmail.com
+                    info@sanatuspharmallc.com
                   </a>
                 </p>
               </div>
@@ -84,9 +88,9 @@ export default function Footer() {
             {/* Map Section */}
             <div className="flex relative">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12699.283110016825!2d55.4930299!3d25.2639106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f5a2bccab057%3A0x9610faaf87f60b1e!2sMEDON+HEAD+OFFICE+-+Mina+Medical+Store+L.L.C.SP!5e0!3m2!1sen!2sin!4v1753016755766"
+                src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d225.68727038315313!2d55.40421617479931!3d25.16960189999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sV-03%E2%80%8B3%2C%20Russia-V%20street%E2%80%8BG%20Floor%2039191%2084659%20Russia%20Cluster%2C%20Warsan%201%2C%20Mushraif%2C%20Dubai%2C%20Dubai%C2%A0Municipality!5e0!3m2!1sen!2sae!4v1757916944987!5m2!1sen!2sae"
                 className="h-[80%] border-0 absolute top-1/2 transform -translate-y-1/2 sm:right-10 right-5 z-10 rounded-lg mx-auto w-[90%] lg:w-full"
-                style={{ border: 0 }}
+                style={{ border: 0,width:600,height:300,border:"1px solid #bbbdbf" }}
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
@@ -96,7 +100,7 @@ export default function Footer() {
               <div className="relative overflow-hidden h-full w-full opacity-0 lg:opacity-00">
                 <img
                   src="/images/footer_img.webp"
-                  alt="Car background representing auto spare parts"
+                  alt="background representing pharma products"
                   className="w-full h-full object-cover scale-150 -translate-x-44 translate-y-24 filter brightness-50"
                 />
               </div>

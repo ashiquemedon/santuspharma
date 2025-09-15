@@ -19,7 +19,7 @@ export default function ProductDetails() {
         {productList.map((item) => (
           <article
             key={item.key}
-            className="bg-[#ffffff] rounded-xl p-6 shadow-md hover:shadow-md transition border"
+            className="bg-[#f7f7f7] rounded-xl p-6 shadow-sm hover:shadow-md transition"
           >
             <h3 className="text-2xl font-bold mb-4 text-gray-800 leading-tight">
               {item.heading.first && (
@@ -48,7 +48,7 @@ export default function ProductDetails() {
               />
             </figure>
 
-            <p className="text-gray-700 text-base font-light leading-relaxed fadeIn text-justify">
+            <p className="text-gray-700 text-base font-light leading-relaxed fadeIn">
               {item.desc}
             </p>
           </article>

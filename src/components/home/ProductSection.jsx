@@ -1,6 +1,5 @@
 import { productList } from "@/lib/data/products";
 import Image from "next/image";
-import Link from "next/link";
 
 export default function ProductSection() {
   return (
@@ -15,7 +14,7 @@ export default function ProductSection() {
         >
           Explore Our <span className="text-primary">Products</span>
         </h2>
-        <p className="text-gray-700 text-base md:text-xl max-w-2xl mt-6 fadeIn text-justify ">
+        <p className="text-gray-700 text-base md:text-xl max-w-2xl mt-6 fadeIn">
           Sanatus pharma is a newly established entity under the NANOSYS Holding
           consortium. Which ecompasses a robust network of six parmacy group
           totaling over 150 pharmacies.Sanatus pharma is a newly established
@@ -27,12 +26,7 @@ export default function ProductSection() {
         {productList.map((item) => (
           <article
             key={item.key}
-            className="bg-[#ffffff] rounded-xl p-6 text-center shadow-md hover:shadow-lg transition fadeIn border"
-          > 
-          <Link
-            href="/products"
-            hrefLang="en"
-            aria-label="Santus Pharma – High-quality pharmacy products in UAE for medicines, supplements, skincare, and wellness essentials."
+            className="bg-gray-100 rounded-xl p-6 text-center shadow-sm hover:shadow-lg transition fadeIn"
           >
             <div className="relative w-28 h-24 mx-auto mb-4">
               <Image
@@ -43,7 +37,6 @@ export default function ProductSection() {
               />
             </div>
             <h3 className="text-lg font-light capitalize">{item.key}</h3>
-            </Link>
           </article>
         ))}
       </div>

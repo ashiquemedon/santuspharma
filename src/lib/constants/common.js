@@ -1,19 +1,19 @@
 
 const SOCIAL_LINKS = {
   whatsapp: "https://wa.me/971566212170",
-  facebook: "https://facebook.com/santuspharma",
-  instagram: "https://instagram.com/santuspharma",
-  youtube: "https://youtube.com/santuspharma",
+  facebook: "https://facebook.com/sanatuspharma",
+  instagram: "https://instagram.com/sanatuspharma",
+  youtube: "https://youtube.com/sanatuspharma",
 };
 
 const PERSONAL_INFO = {
-  phone: "+971 566212170",
-  location: "UAE",
-  email: "santuspharmallc@gmail.com"
+  phone: " +971 566212170",
+  location: "V-033,Russia Cluster,Warsan 1, Mushraif, Dubai",
+  email: "info@sanatuspharmallc.com"
 }
 
 const COMPANY_INFO = {
-  name: "Pantus Pharma",
+  name: "Pharma products",
   since: "2025",
-  address: "UAE",
+  address: "V-033,Russia Cluster,Warsan 1, Mushraif, Dubai",
 }

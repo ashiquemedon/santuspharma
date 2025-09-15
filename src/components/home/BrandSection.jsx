@@ -11,7 +11,7 @@ export function BrandSection() {
         >
           Brands We <span className="text-primary">Trust</span>
         </h2>
-        <p className="text-base md:text-xl text-gray-700 max-w-2xl mt-6 fadeIn text-justify ">
+        <p className="text-base md:text-xl text-gray-700 max-w-2xl mt-6 fadeIn">
           We partner with top-quality pharmaceutical brands to ensure genuine,
           reliable, and effective medicines for your health. Trust our curated
           selection for safety, performance, and long-lasting wellness.

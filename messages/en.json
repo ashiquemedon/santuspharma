@@ -1,7 +1,7 @@
 {
   "HomePage": {
     "HeroSection": {
-      "title": "Your Trusted Destination for Quality Spare Parts",
+      "title": "Your Trusted Destination for QualityPharma products",
       "title1": "Your",
       "title2": "Trusted",
       "title3": "Destination For",
@@ -20,7 +20,7 @@
       },
       "about": "About",
       "us": "Us",
-      "p1": "At Pandi Auto Spare, we specialize in providing high-quality spare parts for cars. Whether you're a vehicle owner, mechanic, or retailer, we ensure access to a wide range of OEM and premium aftermarket parts that meet industry standards.",
+      "p1": "At Sanatus Pharma, we specialize in providing high-qualityPharma products for  . Whether you're a vehicle owner, mechanic, or retailer, we ensure access to a wide range of OEM and premium aftermarket parts that meet industry standards.",
       "p2": "With a focus on genuine quality, competitive pricing, and fast delivery, our goal is to keep your vehicles running safely and smoothly. From engines to accessories, our inventory is backed by expert support and a commitment to customer satisfaction.",
       "callAction": "Read More",
       "icons": {
@@ -33,7 +33,7 @@
     "HomeProduct": {
       "explore": "Explore Our",
       "products": "Products",
-      "p1": "Browse our wide range of high-quality spare parts designed to fit perfectly and perform reliably. Whether you’re upgrading, replacing, or repairing — we’ve got the right part for you.",
+      "p1": "Browse our wide range of high-qualityPharma products designed to fit perfectly and perform reliably. Whether you’re upgrading, replacing, or repairing — we’ve got the right part for you.",
       "parts": {
         "parts": "Engine Parts",
         "parts_first": "Engine",
@@ -75,7 +75,7 @@
     "HomeBrand": {
       "brand": "Brands We",
       "trus": "Trust",
-      "p1": "Browse our wide range of high-quality spare parts designed to fit perfectly and perform reliably. Whether you’re upgrading, replacing, or repairing — we’ve got the right part for you"
+      "p1": "Browse our wide range of high-qualityPharma products designed to fit perfectly and perform reliably. Whether you’re upgrading, replacing, or repairing — we’ve got the right part for you"
     }
   },
   "Header": {
@@ -92,7 +92,7 @@
       "titleLabel2": "Us",
       "subtitleLabel1": "Trusted by Customers Since",
       "subtitleLabel2": "1972",
-      "description": "Welcome to pandi Auto spare, your one-stop destination for high-quality spare parts for all types of vehicles. From everyday commuters to heavy-duty machines, we provide reliable solutions to keep you moving with confidence."
+      "description": "Welcome to Sanatus Pharma, your one-stop destination for high-qualityPharma products for all types of vehicles. From everyday commuters to heavy-duty machines, we provide reliable solutions to keep you moving with confidence."
     },
     "MissionSection": {
       "titleLabel1": "Who",
@@ -100,7 +100,7 @@
       "titleLabel3": "Our",
       "titleLabel4": "Mission",
       "subtitle1": "We re a team of auto enthusiasts and professionals with a passion for performance and precision. With years of industry experience, we understand the importance of using the right part — which is why we only offer products that meet strict standards of quality, durability, and fit.",
-      "subtitle2": "To make spare part buying easy, reliable, and accessible for every customer — whether you’re a car owner, a mechanic, or a shop owner. We aim to build long-term relationships based on honesty, quality, and service excellence."
+      "subtitle2": "To make spare part buying easy, reliable, and accessible for every customer — whether you’re a   owner, a mechanic, or a shop owner. We aim to build long-term relationships based on honesty, quality, and service excellence."
     },
     "OfferSection": {
       "titleLabel1": "What",
@@ -147,8 +147,8 @@
       "titleLabel2": "Us",
       "titleLabel3": "Get In",
       "titleLabel4": "Touch",
-      "phone": "+91 8606449640",
-      "mail": "Pandispare@gmail.com",
+      "phone": " +971 566212170",
+      "mail": "info@sanatuspharmallc.com",
       "titleLabel5": "Customer Support",
       "titleLabel6": "Hours",
       "time": "Monday – Saturday: 9:00 AM To 7:00 PM",
@@ -159,8 +159,8 @@
     "HeroSection": {
       "our": "Our ",
       "products": "Products",
-      "subtitle": "High-Quality Spare Parts for Every Vehicle",
-      "description": "Explore a wide range of spare parts that guarantee performance, durability, and compatibility. Whether you need OEM components or trusted aftermarket alternatives, we’ve got exactly what your vehicle needs — all in one place."
+      "subtitle": "High-QualityPharma products for Every Vehicle",
+      "description": "Explore a wide range ofPharma products that guarantee performance, durability, and compatibility. Whether you need OEM components or trusted aftermarket alternatives, we’ve got exactly what your vehicle needs — all in one place."
     },
     "WhyByFromUs": {
       "titleLabel1": "Why",

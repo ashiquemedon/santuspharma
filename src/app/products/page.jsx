@@ -6,7 +6,7 @@ import ProductHeroSection from "@/components/product/ProductHeroSection";
 import { BUY_FROM_AS_QUESTIONS } from "@/lib/data/common";
 
 export const metadata = {
-  title: "Pandi Web — Spare Parts: Engine, Brakes & More",
+  title: "  Web —Pharma products: Engine, Brakes & More",
   description: "Explore engine, brake, electronic, lighting, body, and lubrication parts — OEM and trusted aftermarket options from brands like Bosch, NGK, TVS, and Exide."
 };
 

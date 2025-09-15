@@ -19,17 +19,17 @@ export default function Header() {
         <Link
           href="/"
           hrefLang="en"
-          aria-label="Pandi Auto Spare – Home page for high-quality car spare parts in Perinthalmanna, Malappuram"
+          aria-label="Sanatus Pharma – Home page for high-quality  Pharma products in Perinthalmanna, Malappuram"
         >
           <Image
             src="/images/PandiAutoPartsStoreLogo.webp"
-            alt="Pandi Auto Spare Logo – Car Spare Parts Home"
+            alt="Sanatus Pharma Logo –  Pharma products Home"
             width={120}
             height={50}
             className="object-contain"
             priority
           />
-          <span className="sr-only">Pandi Auto Spare Homepage</span>
+          <span className="sr-only">Sanatus Pharma Homepage</span>
         </Link>
 
         <div className="flex items-center gap-14">
@@ -40,7 +40,7 @@ export default function Header() {
                 <Link
                   href="/"
                   hrefLang="en"
-                  aria-label="Pandi Auto Spare Home – High-quality car spare parts in Perinthalmanna"
+                  aria-label="Sanatus Pharma Home – High-quality  Pharma products in Perinthalmanna"
                   className={`${
                     path === "/" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"
                   }`}
@@ -52,7 +52,7 @@ export default function Header() {
                 <Link
                   href="/about"
                   hrefLang="en"
-                  aria-label="About Pandi Auto Spare – Trusted car spare parts provider in Malappuram"
+                  aria-label="About Sanatus Pharma – Trusted  Pharma products provider in Malappuram"
                   className={`${
                     path === "/about" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"
                   }`}
@@ -64,7 +64,7 @@ export default function Header() {
                 <Link
                   href="/products"
                   hrefLang="en"
-                  aria-label="View Pandi Auto Spare Products – OEM and aftermarket car parts"
+                  aria-label="View Sanatus Pharma Products – OEM and aftermarket   parts"
                   className={`${
                     path === "/products" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"
                   }`}
@@ -76,7 +76,7 @@ export default function Header() {
                 <Link
                   href="/contact"
                   hrefLang="en"
-                  aria-label="Contact Pandi Auto Spare – Get in touch for car spare parts in Kerala"
+                  aria-label="Contact Sanatus Pharma – Get in touch for  Pharma products in Kerala"
                   className={`${
                     path === "/contact" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"
                   }`}
@@ -91,7 +91,7 @@ export default function Header() {
           <div className="flex items-center gap-2 md:gap-4">
             <button
               type="button"
-              aria-label="Call Pandi Auto Spare – High-quality car spare parts support"
+              aria-label="Call Sanatus Pharma – High-quality  Pharma products support"
               className={`bg-primary text-white px-2 sm:px-4 py-2 rounded-full flex items-center text-sm font-medium whitespace-nowrap cursor-pointer ${
                 showNumber ? "gap-2" : "gap-0.5"
               }`}
@@ -103,16 +103,16 @@ export default function Header() {
                   showNumber ? "max-w-[200px] opacity-100" : "max-w-0 opacity-0"
                 }`}
               >
-                +971 566212170
+                 +971 566212170
               </span>
-              <span className="hidden sm:block">+971 566212170</span>
+              <span className="hidden sm:block"> +971 566212170</span>
             </button>
 
             {/* Mobile Menu Button */}
             <button
               type="button"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              aria-label={isMobileMenuOpen ? "Close mobile menu – Pandi Auto Spare navigation" : "Open mobile menu – Pandi Auto Spare navigation"}
+              aria-label={isMobileMenuOpen ? "Close mobile menu – Sanatus Pharma navigation" : "Open mobile menu – Sanatus Pharma navigation"}
               className="lg:hidden p-2 rounded focus:outline-none cursor-pointer"
             >
               {isMobileMenuOpen ? (
@@ -133,7 +133,7 @@ export default function Header() {
             <Link
               href="/"
               hrefLang="en"
-              aria-label="Pandi Auto Spare Home – High-quality car spare parts in Perinthalmanna"
+              aria-label="Sanatus Pharma Home – High-quality  Pharma products in Perinthalmanna"
               onClick={() => setIsMobileMenuOpen(false)}
               className={`block ${path === "/" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"} mt-3`}
             >
@@ -142,7 +142,7 @@ export default function Header() {
             <Link
               href="/about"
               hrefLang="en"
-              aria-label="About Pandi Auto Spare – Trusted car spare parts provider in Malappuram"
+              aria-label="About Sanatus Pharma – Trusted  Pharma products provider in Malappuram"
               onClick={() => setIsMobileMenuOpen(false)}
               className={`block ${path === "/about" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"}`}
             >
@@ -151,7 +151,7 @@ export default function Header() {
             <Link
               href="/products"
               hrefLang="en"
-              aria-label="View Pandi Auto Spare Products – OEM and aftermarket car parts"
+              aria-label="View Sanatus Pharma Products – OEM and aftermarket   parts"
               onClick={() => setIsMobileMenuOpen(false)}
               className={`block ${path === "/products" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"}`}
             >
@@ -160,7 +160,7 @@ export default function Header() {
             <Link
               href="/contact"
               hrefLang="en"
-              aria-label="Contact Pandi Auto Spare – Get in touch for car spare parts in Kerala"
+              aria-label="Contact Sanatus Pharma – Get in touch for  Pharma products in Kerala"
               onClick={() => setIsMobileMenuOpen(false)}
               className={`block ${path === "/contact" ? "text-primary font-semibold" : "text-gray-700 hover:text-primary"}`}
             >

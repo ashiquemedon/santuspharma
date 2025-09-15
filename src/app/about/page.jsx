@@ -7,8 +7,8 @@ import { CHOOSE_AS_QUESTIONS } from "@/lib/data/common";
 
 
 export const metadata = {
-  title: "Pandi Auto Spares — Trusted Since 1972",
-  description: "Pandi Auto Spares: decades of experience supplying OEM and aftermarket parts. Trusted brands, quality assurance, and customer-first service."
+  title: "Sanatus Pharmas — Trusted Since 1972",
+  description: "Sanatus Pharmas: decades of experience supplying OEM and aftermarket parts. Trusted brands, quality assurance, and customer-first service."
 };
 
 export default function AboutPage() {
