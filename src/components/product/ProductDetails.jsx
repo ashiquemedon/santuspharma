@@ -19,7 +19,7 @@ export default function ProductDetails() {
         {productList.map((item) => (
           <article
             key={item.key}
-            className="bg-[#ffffff] rounded-xl p-6 shadow-md hover:shadow-md transition border"
+            className="bg-[#ffffff] rounded-xl p-6 shadow-sm hover:shadow-lg transition fadeIn border"
           >
             <h3 className="text-2xl font-bold mb-4 text-gray-800 leading-tight">
               {item.heading.first && (

@@ -27,7 +27,7 @@ export default function ProductSection() {
         {productList.map((item) => (
           <article
             key={item.key}
-            className="bg-[#ffffff] rounded-xl p-6 text-center shadow-md hover:shadow-lg transition fadeIn border"
+            className="bg-[#ffffff] rounded-xl p-6 text-center shadow-sm hover:shadow-lg transition fadeIn border"
           > 
           <Link
             href="/products"
