@@ -22,7 +22,7 @@ export function BrandSection() {
         {brandList.map((item) => (
           <li
             key={item.key}
-            className="bg-gray-100 rounded-xl p-6 text-center shadow-sm hover:shadow-lg transition"
+            className="bg-[#f8faf7] rounded-xl p-6 text-center shadow-sm hover:shadow-lg border transition"
           >
             <div className="relative w-24 h-12 mx-auto">
               <Image

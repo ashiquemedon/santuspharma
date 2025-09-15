@@ -90,7 +90,7 @@ export default function Footer() {
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d225.68727038315313!2d55.40421617479931!3d25.16960189999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sV-03%E2%80%8B3%2C%20Russia-V%20street%E2%80%8BG%20Floor%2039191%2084659%20Russia%20Cluster%2C%20Warsan%201%2C%20Mushraif%2C%20Dubai%2C%20Dubai%C2%A0Municipality!5e0!3m2!1sen!2sae!4v1757916944987!5m2!1sen!2sae"
                 className="h-[80%] border-0 absolute top-1/2 transform -translate-y-1/2 sm:right-10 right-5 z-10 rounded-lg mx-auto w-[90%] lg:w-full"
-                style={{ border: 0,width:600,height:300,border:"1px solid #bbbdbf" }}
+                style={{ border: 0,maxHeight:300,maxWidth:600,border:"1px solid #bbbdbf" }}
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
